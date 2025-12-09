@@ -1,0 +1,6 @@
+# Ignore dependencies not installed
+node_modules
+npm-debug.log
+.DS_Store
+build
+dist
