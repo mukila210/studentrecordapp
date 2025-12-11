@@ -30,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+
+  "proxy": "https://literate-capybara-wwv4xg96vg3gpqr-8080.app.github.dev"
 }
+
